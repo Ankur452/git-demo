@@ -1,1 +1,2 @@
-Lets add some data in a file
+Lets add some data in a file.
+This is the second message.
